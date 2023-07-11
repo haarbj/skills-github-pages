@@ -48,7 +48,7 @@ obsessed with my stride
 
 is how I stride.
 
-updown up    down               up down
+updown up    &nbspdown               &nbspup down
 
 is how I stride.
 
