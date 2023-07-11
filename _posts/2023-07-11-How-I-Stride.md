@@ -1,5 +1,5 @@
 ---
-title: "FIRST-POST"
+title: "How-I-Stride"
 date: 2023-07-11
 ---
 # How I Stride
