@@ -3,7 +3,7 @@ title: "How-I-Stride"
 date: 2023-07-11
 ---
 # How I Stride
-
+```
 long yet fast
 
 is how I stride.
@@ -48,7 +48,7 @@ obsessed with my stride
 
 is how I stride.
 
-updown up</br></br></br></br>down</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>up down
+updown up    down               up down
 
 is how I stride.
 
@@ -71,3 +71,4 @@ is how I stride.
 loving others and their strides
 
 is how I stride.
+```
